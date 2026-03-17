@@ -18,7 +18,7 @@
             r--  --> others
         
 # 5 chmod, chown , umask
-    1. chmod (change permission)
+    1. chmod (change permission)        
     
     chmod u+x script.sh
  
